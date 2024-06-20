@@ -104,6 +104,20 @@ Classification Report:
 weighted avg       0.77      0.77      0.77      3901
  samples avg       0.77      0.77      0.77      3901
 
+
+# ROC - AUC : 
+  ROC-AUC for Class 0: 0.74
+  ROC-AUC for Class 1: 0.69
+  ROC-AUC for Class 2: 0.79
+  ROC-AUC for Class 3: 0.97
+  ROC-AUC for Class 4: 0.94
+  ROC-AUC for Class 5: 0.92
+  ROC-AUC for Class 6: 0.82
+  ROC-AUC for Class 7: 0.82
+  ROC-AUC for Class 8: 0.68
+  ROC-AUC for Class 9: 0.70
+  **Micro-average ROC-AUC: 0.87**
+
 # Conclusion 
   Using LIME we can clearly observe the focus of the model.
   
